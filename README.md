@@ -12,7 +12,7 @@
 
 ```javascript
 const UserInformation = {
- pronouns: "He" | "Him",
+    pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
         fronEnd: ["reactjs","react-native","html","css"],
