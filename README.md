@@ -12,17 +12,17 @@
 
 ```javascript
 const UserInformation = {
-    askMeAbout: ["app dev", "web dev", "tech"],
+    askMeAbout: ["App Native"],
     technologies:{
-        fronEnd: ["reactjs","react-native","html","css"],
-        backEnd: ["nodejs", "express"],
-        database: ["mongo"],
-        server: ["mongo","firebase"],
-        uiFramework: ["material-ui","bootstrap", "react-native-elements", "react-native-paper",""ant-deign"],
-        others:["Photoshop", "Sony Vegas",]
+        fronEnd: ["ReactJS","React-Native","HTML","CSS", "JavaScript"],
+        backEnd: ["NodeJS", "Express"],
+        database: ["MongoDB"],
+        server: ["MongoDB","Firebase"],
+        uiFramework: ["Bulma", "TailwindCSS", "Bootstrap"],
+        others:["Photoshop", "Sony Vegas", "Adobe XD", "After Effects"]
     },
     architecture: ["React Native"],
-    interests: ["music", "football", "travel", "english", "movie"]
+    interests: ["Music", "Travel", "English", "Spanish", "Portugues"]
 }
 ```
 
