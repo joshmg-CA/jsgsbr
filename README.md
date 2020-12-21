@@ -12,7 +12,7 @@
 
 ```javascript
 const UserInformation = {
-    askMeAbout: ["App Native"],
+    askMeAbout: ["Front-end Developer"],
     technologies:{
         fronEnd: ["ReactJS", "HTML", "CSS", "JavaScript"],
         backEnd: ["NodeJS", "Express"],
