@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 🙏, I'm Jhon Steven Saavedra.  
-## App Developer 👨‍💻
+## Front-end Developer 👨‍💻
 
 [![](https://img.shields.io/badge/Facebook-Jhon-blue)](https://www.facebook.com/jsgsco/)
 [![](https://img.shields.io/badge/Gmail-foeblackg@gmail.com-red)](mailto:foeblackg@gmail.com)
